@@ -1,5 +1,5 @@
 # Pong
-Pong é um jogo bastante popular e fundamental na história dos videogames. O seu objetivo é simular uma partida de tênis de mesa. Para mais informações, [clique aqui.](https://pt.wikipedia.org/wiki/Pong). Abaixo veja um exemplo de como funcionava o jogo.
+Pong é um jogo bastante popular e fundamental na história dos videogames. O seu objetivo é simular uma partida de tênis de mesa. Para mais informações, [clique aqui](https://pt.wikipedia.org/wiki/Pong). Abaixo veja um exemplo de como funcionava o jogo.
 ![Pong Gif](https://c.tenor.com/2gyJVMt_L6wAAAAC/pong-video-game.gif)
 
 ## Descrição do projeto
